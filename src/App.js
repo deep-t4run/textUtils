@@ -30,7 +30,7 @@ function App() {
       document.body.style.backgroundColor = "white";
       showAlert("Light Mode has been enabled", "success");
     }
-  };
+  };  
 
   return (
     <>
